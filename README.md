@@ -11,9 +11,19 @@
 
 This project analyzes customer shopping behavior using **Python, SQL, and data analytics techniques** to uncover insights about purchasing patterns, demographics, and sales trends.
 
-The objective is to identify key factors influencing customer spending and provide insights that could support data-driven business decisions.
+The objective is to identify key factors influencing customer spending and provide insights that could support **data-driven business decisions**.
 
 The project demonstrates an **end-to-end data analytics workflow**, including data preprocessing, exploratory data analysis, customer segmentation, predictive modeling, and SQL-based business analysis.
+
+---
+
+## Project Highlights
+
+• Performed **Exploratory Data Analysis (EDA)** on customer purchasing data  
+• Identified **sales trends across categories, seasons, and demographics**  
+• Implemented **customer segmentation using RFM-style metrics**  
+• Built a **Linear Regression model** to predict customer purchase amounts  
+• Conducted **SQL-based business analysis** to answer key business questions
 
 ---
 
@@ -23,26 +33,26 @@ The dataset contains customer shopping records including demographic information
 
 Key attributes include:
 
-* Customer ID
-* Age
-* Gender
-* Product Category
-* Purchase Amount (USD)
-* Season
-* Payment Method
-* Previous Purchases
+- Customer ID  
+- Age  
+- Gender  
+- Product Category  
+- Purchase Amount (USD)  
+- Season  
+- Payment Method  
+- Previous Purchases  
 
 ---
 
 ## Tools & Technologies
 
-* **Python**
-* **Pandas**
-* **NumPy**
-* **Matplotlib**
-* **Seaborn**
-* **SQLite (SQL Queries)**
-* **Jupyter Notebook**
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **SQLite (SQL Queries)**
+- **Jupyter Notebook**
 
 ---
 
@@ -56,16 +66,6 @@ Key attributes include:
 6. **Customer Segmentation**
 7. **Predictive Modeling (Linear Regression)**
 8. **SQL-Based Business Analysis**
-
----
-
-## Key Insights
-
-* Certain product categories generate significantly higher revenue.
-* Customer demographics influence purchasing patterns.
-* Seasonal trends affect overall sales performance.
-* Payment method analysis reveals customer transaction preferences.
-* Predictive modeling helps estimate potential customer spending.
 
 ---
 
@@ -92,11 +92,14 @@ Key attributes include:
 
 SQL queries were used to answer key business questions such as:
 
-* Total revenue generated
-* Revenue by product category
-* Average spending by gender
-* Seasonal sales trends
-* Most frequently used payment methods
+- Total revenue generated  
+- Revenue by product category  
+- Average spending by gender  
+- Seasonal sales trends  
+- Most frequently used payment methods  
+
+SQL queries are available in:
+sql/business_queries.sql
 
 ---
 
@@ -105,9 +108,17 @@ SQL queries were used to answer key business questions such as:
 ```
 customer-shopping-behavior-analysis
 │
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_shopping_behavior.csv
-├── business_queries.sql
+├── data
+│ └── customer_shopping_behavior.csv
+│
+├── images
+│
+├── notebooks
+│ └── Customer_Shopping_Behavior_Analysis.ipynb
+│
+├── sql
+│ └── business_queries.sql
+│
 └── README.md
 ```
 
@@ -117,10 +128,10 @@ customer-shopping-behavior-analysis
 
 Planned enhancements for this project:
 
-* Build an **interactive Power BI dashboard**
-* Perform **advanced customer segmentation**
-* Apply **machine learning models for improved predictions**
-* Add **interactive visualizations**
+- Build an **interactive Power BI dashboard**
+- Perform **advanced customer segmentation**
+- Apply **machine learning models for improved predictions**
+- Add **interactive visualizations**
 
 ---
 
@@ -128,5 +139,5 @@ Planned enhancements for this project:
 
 **Naved Ahmed Shaik**
 
-Computer Science & AI Student
+Computer Science & AI Student  
 Interested in **Data Analytics, Machine Learning, and Data Visualization**
