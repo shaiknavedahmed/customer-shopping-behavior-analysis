@@ -90,16 +90,20 @@ Key attributes include:
 
 ## SQL Business Analysis
 
-SQL queries were used to answer key business questions such as:
+SQL was used to perform structured queries on the dataset and extract key business insights related to customer purchasing behavior and sales performance.
 
-- Total revenue generated  
-- Revenue by product category  
-- Average spending by gender  
-- Seasonal sales trends  
-- Most frequently used payment methods  
+The SQL analysis focuses on answering important business questions such as:
 
-SQL queries are available in:
-sql/business_queries.sql
+- What is the **total revenue** generated from customer purchases?
+- Which **product categories contribute the most to overall sales**?
+- How does **average spending vary across genders**?
+- What are the **seasonal trends in sales performance**?
+- Which **payment methods are most frequently used by customers**?
+
+These queries help simulate real-world business analytics scenarios where SQL is used to analyze transactional data.
+
+📂 **View SQL Queries:**  
+[`sql/business_queries.sql`](sql/business_queries.sql)
 
 ---
 
