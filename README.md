@@ -69,6 +69,25 @@ Key attributes include:
 
 ---
 
+## Visual Insights
+
+### Customer Age Distribution
+![Age Distribution](images/age_distribution.png)
+
+### Revenue by Product Category
+![Revenue by Category](images/revenue_by_category.png)
+
+### Payment Method Distribution
+![Payment Method Distribution](images/payment_method_distribution.png)
+
+### Seasonal Sales Trends
+![Seasonal Sales](images/seasonal_sales.png)
+
+### Customer Spending vs Age
+![Spending vs Age](images/spending_vs_age.png)
+
+---
+
 ## SQL Business Analysis
 
 SQL queries were used to answer key business questions such as:
