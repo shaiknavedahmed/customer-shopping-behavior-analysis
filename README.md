@@ -74,7 +74,7 @@ Key attributes include:
 The complete analysis is documented in the Jupyter Notebook used for this project.
 
 📓 **View Notebook:**  
-[`notebooks/Customer_Shopping_Behavior_Analysis.ipynb`](notebooks/Customer_Shopping_Behavior_Analysis.ipynb)
+[`notebooks/Customer_Shopping_Behavior_Analysis.ipynb`](notebooks/customer_analysis.ipynb)
 
 The notebook includes the full data analytics workflow:
 
