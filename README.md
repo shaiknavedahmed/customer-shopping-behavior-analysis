@@ -44,6 +44,17 @@ Key attributes include:
 
 ---
 
+## Dataset
+
+The dataset used for this analysis is included in this repository.
+
+📁 **Dataset File:**  
+[`data/customer_shopping_behavior.csv`](data/customer_shopping_behavior.csv)
+
+The dataset contains customer shopping records including demographic information, product categories, purchase amounts, seasonal trends, and payment methods.
+
+---
+
 ## Tools & Technologies
 
 - **Python**
