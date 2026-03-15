@@ -74,7 +74,7 @@ Key attributes include:
 The complete analysis is documented in the Jupyter Notebook used for this project.
 
 📓 **View Notebook:**  
-[`notebooks/Customer_Shopping_Behavior_Analysis.ipynb`](notebooks/customer_analysis.ipynb)
+[`notebooks/customer_analysis.ipynb`](notebooks/customer_analysis.ipynb)
 
 The notebook includes the full data analytics workflow:
 
@@ -89,7 +89,7 @@ The notebook includes the full data analytics workflow:
 
 You can also run the notebook directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shaiknavedahmed/customer-shopping-behavior-analysis/blob/main/notebooks/Customer_Shopping_Behavior_Analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shaiknavedahmed/customer-shopping-behavior-analysis/blob/main/notebooks/customer_analysis.ipynb)
 
 ---
 
