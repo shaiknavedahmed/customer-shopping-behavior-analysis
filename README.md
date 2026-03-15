@@ -69,6 +69,52 @@ Key attributes include:
 
 ---
 
+## Notebook
+
+The complete analysis is documented in the Jupyter Notebook used for this project.
+
+📓 **View Notebook:**  
+[`notebooks/Customer_Shopping_Behavior_Analysis.ipynb`](notebooks/Customer_Shopping_Behavior_Analysis.ipynb)
+
+The notebook includes the full data analytics workflow:
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualizations
+- Customer segmentation
+- Predictive modeling
+- SQL-based business analysis
+
+### Run Notebook in Google Colab
+
+You can also run the notebook directly in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shaiknavedahmed/customer-shopping-behavior-analysis/blob/main/notebooks/Customer_Shopping_Behavior_Analysis.ipynb)
+
+---
+
+## Key Insights
+
+- **Product Category Performance:**  
+  Certain product categories generate significantly higher revenue, indicating stronger customer demand and potential focus areas for business growth.
+
+- **Customer Demographics:**  
+  Spending patterns vary across demographic groups, suggesting that age and gender influence purchasing behavior.
+
+- **Seasonal Trends:**  
+  Sales performance changes across different seasons, highlighting the impact of seasonal demand on customer purchasing activity.
+
+- **Payment Preferences:**  
+  Analysis of payment methods shows clear customer preferences for certain transaction types, which can help optimize checkout processes.
+
+- **Customer Spending Patterns:**  
+  The relationship between age and purchase amount reveals variations in spending behavior across different age groups.
+
+- **Predictive Modeling Insight:**  
+  A Linear Regression model was used to estimate customer purchase amounts based on demographic and behavioral features, demonstrating the potential for predictive analytics in customer behavior analysis.
+
+---
+
 ## Visual Insights
 
 ### Customer Age Distribution
